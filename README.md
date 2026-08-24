@@ -3,6 +3,16 @@
 A desktop application built with **Python (Tkinter GUI)** and **JSON file storage** to track
 personal income and expenses.
 
+## Screenshots
+
+**Main window** — summary bar, add-transaction form, and transaction table:
+
+![Main window](docs/screenshot-main.png)
+
+**Category report** — ASCII bar-chart breakdown of income vs expenses:
+
+![Category report](docs/screenshot-report.png)
+
 ## Features
 - Add income / expense transactions (type, category, amount, note)
 - Auto date-time stamping
